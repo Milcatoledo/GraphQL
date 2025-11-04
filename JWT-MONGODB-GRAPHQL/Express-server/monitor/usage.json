@@ -1,0 +1,12 @@
+{
+  "rest": {},
+  "graphql": {
+    "Register": 7,
+    "anonymous": 1,
+    "GetPersonas": 54,
+    "Login": 4,
+    "CreatePersona": 5,
+    "UpdatePersona": 11,
+    "DeletePersona": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "graphql": {
+    "Register": 1,
+    "GetPersonas": 35,
+    "CreatePersona": 2,
+    "UpdatePersona": 2,
+    "DeletePersona": 1
+  }
+}
